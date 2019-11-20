@@ -36,6 +36,10 @@ target 'gobarber' do
 
   pod 'RNCAsyncStorage', :path => '../node_modules/@react-native-community/async-storage'
 
+  pod 'CodePush', :path => '../node_modules/react-native-code-push'
+
+  pod 'react-native-onesignal', :path => '../node_modules/react-native-onesignal'
+
   target 'gobarberTests' do
     inherit! :search_paths
     # Pods for testing
