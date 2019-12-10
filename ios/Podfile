@@ -40,6 +40,8 @@ target 'gobarber' do
 
   pod 'react-native-onesignal', :path => '../node_modules/react-native-onesignal'
 
+  pod 'react-native-config', :path => '../node_modules/react-native-config'
+
   target 'gobarberTests' do
     inherit! :search_paths
     # Pods for testing
