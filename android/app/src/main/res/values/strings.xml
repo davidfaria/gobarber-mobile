@@ -1,4 +1,4 @@
 <resources>
-	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">deployment-key-here</string>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">UAilda9drcBeJ3JeNLe9xRlQ6ZBMPgQ_0ULzA</string>
     <string name="app_name">gobarber</string>
 </resources>
